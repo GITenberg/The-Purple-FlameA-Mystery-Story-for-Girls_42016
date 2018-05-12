@@ -1,0 +1,34 @@
+_repo: The-Purple-FlameA-Mystery-Story-for-Girls_42016
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42016-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Reindeer -- Juvenile fiction'
+- !lcsh 'Alaska -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Hermits -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: 'The Purple Flame
+
+  A Mystery Story for Girls'
+url: http://www.gutenberg.org/ebooks/42016
